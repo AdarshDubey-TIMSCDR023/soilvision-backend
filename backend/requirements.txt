@@ -1,0 +1,6 @@
+flask
+flask-cors
+numpy
+scikit-learn
+joblib
+opencv-python-headless   # Lighter version, no GUI dependencies
