@@ -1,6 +1,7 @@
-flask
+Flask
 flask-cors
 numpy
 scikit-learn
 joblib
-opencv-python-headless   # Lighter version, no GUI dependencies
+opencv-python-headless
+gunicorn
